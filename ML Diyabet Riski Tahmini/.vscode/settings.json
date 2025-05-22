@@ -1,0 +1,27 @@
+{
+  "python.linting.enabled": false,
+  "python.analysis.openFilesOnly": true,
+  "python.analysis.autoImportCompletions": false,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.languageServer": "Pylance",
+  
+  "editor.minimap.enabled": false,
+  "editor.codeLens": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  
+  "files.autoSave": "onWindowChange",
+  "explorer.confirmDragAndDrop": false,
+
+  "debug.javascript.autoAttachFilter": "disabled",
+  "git.enabled": false,
+  
+  "telemetry.telemetryLevel": "off",
+  "workbench.startupEditor": "none",
+  "workbench.enableExperiments": false,
+
+  "python.dataScience.variableExplorer": true,
+  "python.dataScience.showVariableExplorer": true
+}
